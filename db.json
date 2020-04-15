@@ -1,3 +1,6 @@
+{
+"posts":
+[
   {
     "productId": 1,
     "productName": "Leaf Rake",
@@ -48,3 +51,5 @@
     "starRating": 4.6,
     "imageUrl": "assets/images/xbox-controller.png"
   }
+]
+}
